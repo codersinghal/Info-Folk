@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f4d23147208015228bca3ec4ba75f9ac2e2b56af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/5129fc8fce3e0b01b3016db96db35137d2a0810e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_5a964ad2319797e78cf56fcac486057a9c2b6b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/c0da1106e39caf18ee4a2eb2477225602b3ba19f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_7f4fd93248afa258d450713df4105332cef4e36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/765ffc8ea7be002fa85fd03d978f89a5f2db0657/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ef698b3c8609d86cac06834429a39ef417d5b57a">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_732d7c438a31a373a28e3744dc10d0ab6574ad84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/78b9ddf7e6446d3ee5b65ecfe3d3f37c4378b0e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_097efb5311ec5acc0c490827f49595d5005b4e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/4a5ffdbb269af11d46d7ae70872b1730b9187d63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_8c023c4810c79255676caadc7e9ce81e50f722a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/ac6a7d09ea4cba00f2bbb33fc75a0f16889aaae9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_3d436ef5330241ea37fb8e35d07ea2c0ac6e95e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/collections-28.0.0_6406e17b1e1593f277d23ce3766fe31b469cc66a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/d15a6b33d633034ab8d24a6c2130720a6e245813/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_f9a896c1f92c514d02eb3afd5860eb42ba2ca40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/8a3421fc407f719b8696deca2face34f9fc7c47f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_af255d922cb470c6e850fc8a1b0edfc421eb9254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.3_01383333f4ec0c4f8b86963bb44834e6f643e448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/common-1.1.1_0534e7a74ac45c5e570c3b68a1193b3735b25a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/f0bf84d65015034059ac46d7455fe2bb654d5415/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="31b98191e7c892b25799dbe30c8124210a68e201">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_b6862d943a0e5a08fd58749e36be186b6c2c7e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/9d7073bf2ae1732690edd9d9c13e9cac96cd6bd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_7833afd15f0f0f251d124392c2a9602edd8f0747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/930b08671fe6f6d2b539c7924d4adc85797d1fb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_114a865b53e667b656f18b59f45301734e183ae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/9142804d3a81cb3546aa16b1a162df6af8de21aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="3fec43a847d8788b7642a1932e6266ef8bdab169">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_8b5015f3196eaf30005548c4c7608f25eabe50f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/83202170ce940e26bfa6eaa283116e1d20fe254c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_21c0f980f2d704004c7db509d63703e588dc3865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/294f44159ccd8ea5da5e29a5ce74f9a8162febe2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_6f3a375cca839325586e1cd9c40fda7670de8dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/067e3a526bbe804dd707f67b96383ed2e35002b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_dbf43ed53b23b83b2dd88a4886f53aa30d532f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/fbda71a4ff37dac5ee032d2601c28a9aba70a3d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_0a14ce5a89cd56496728c61ca74423f0a81637cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/6b7619b98c1d2f87d7a87b975c35c3cfbda59361/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_f47ef4a25e61a76a16d005910749506923c46309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0_d2b65d804c6df7eb6ee849fd61cd930c145c054f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/39432be1c091c205e94557a85fce5c233467bdda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_a22db8bfc18b8b1b98555543a416634a8ca4a6e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/a38d6a94d50c30ef8d150b38b90c70101f3ef4f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ada02cfa6d6403e90138de411c67d8f6763b3018">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_7aa7dd02d721915af45add685d20fc712acf805d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/138ed4fb2a9380ba7dce691b7d27a9edc25da536/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_d03ff886ce8d3f90455025d4b008757ab5010f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/common-1.1.1_616a17d921cb65745add76d5a238f9a48bf4ec0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/ccf7a47e2fac980d2ff5bb6b2ae1cbaffc43d79d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="f1c031c4ca26cea0adbe178007dd3bfd311be983">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_ae648a971855af3b0bfcbb406063c9ef21506c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/ec985f4b2eb5caaed464d3a7ddcd3a9121c9fc0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_b63f354bacf3a02ea1e3fbf67af6f46145584177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/9ff97e051a9fc42d8d29ecf639f83929a93fb6fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_5a217c305047432dcaa0af6036787631ce5bf75a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/b1e5152e35f27716ed66e7e01ab725d01705de4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_d4e3748ad399964a976d7f35d030082080b21a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/3a482c680fc9d4c7182d345250ae276a2a1aa442/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_1f8a11fe2c6a31d04a2420c46097f3b24d3deee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/49c53f91ce63929ce1adc749f94217c87a7cd0bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_80f08648c8226c275bd6647d47d1f17b7c6d5557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/db91df4d63919a687be0114cddc1584ca50e8d3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_c70421654eff9d41108d955f873d1e13ffd02f60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/bcf9072d0f55feff176e72d90168c8c5df4524b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_1ad8349b9f7933e55b026acda575eba90b8063a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/891d69c968fbdc8b7e01849d0dc20f23a846fcc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_ba74e4e58d53bf6da8cd99d2e4044d449929d73c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/064c837c08ce45e2af8987086140a9f774b85118/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_ae856c2197638eb1d05c1b456cd9a92bd5b72cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/b3a5a842b5ef1904dcb131802a0714b7abaaf4f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_fadcb1b5bd2ccdd9750a11b37ff172d43d65dcb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/67d95ecc3c5e4dcc654a63097a6923831ec9f31a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/home/harshit/Downloads/QuickNews-master/app/build/intermediates/pre-dexed/debug/classes_373762c16b984c23d7979a2159b0ce78c3f076bb.jar" />
+    </item>
+
+</items>

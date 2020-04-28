@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuickNews</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="about_app_0">Info Folk Android App Version v1.0-alpha</string>
+    <string name="about_app_1">
+        Info Folk is a simple android app that aims at providing latest news from various news sources in a concise manner.
+    </string>
+    <string name="about_app_2">Currently Info Folk provide news from 58 news sources around the globe.
+        Our only goal is to make user more and more informed about what\'s going on globally.</string>
+    <string name="about_app_3">Info Folk is also an Open Source Project.
+        You can check out the code base at <b>https://github.com/codersinghal/QuickNews</b> .
+        So feel free to contribute.</string>
+    <string name="about_app_4">All the bug reports and feature request must be submitted by mailing at-  <b>harshitsinghal0006@gmail.com</b> .
+        We ensure you that your request will be entertained in future version of app.</string>
+</resources>
