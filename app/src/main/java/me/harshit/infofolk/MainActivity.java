@@ -1,6 +1,5 @@
 
-//Dude you just need to wait if you want to play with screen rotation.
-//I have implemented most the logic from my side let' see how it works.
+
 
 package me.harshit.infofolk;
 
